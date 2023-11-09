@@ -1,23 +1,25 @@
 # Human Resources Employee Data Analysis
-![dashboard]([http://url/to/img.png](https://github.com/alicenkbaytop/hr-employee-analysis-sql-powerbi/blob/main/analysis%20outputs/HR%20Employee%20Analysis.png))
+![dashboard](https://github.com/alicenkbaytop/hr-employee-analysis-sql-powerbi/blob/main/analysis%20outputs/HR%20Employee%20Analysis.png)
 
-## Technologies: SQL, Microsoft PowerBI
+## Technologies: 
+* SQL,
+* Microsoft PowerBI
 
 ## Dataset: 13 different features 
-emp_id varchar(20) 
-first_name text 
-last_name text 
-birthdate date 
-gender text 
-race text 
-department text 
-jobtitle text 
-location text 
-hiredate varchar(20) 
-location_city text 
-location_state text 
-termdate date 
-age int
+emp_id varchar(20),
+first_name text,
+last_name text, 
+birthdate date, 
+gender text, 
+race text, 
+department text, 
+jobtitle text, 
+location text, 
+hiredate varchar(20), 
+location_city text, 
+location_state text, 
+termdate date,
+age int,
 
 ## Problems
 1. What is the gender distribution of employees?
