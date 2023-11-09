@@ -7,7 +7,7 @@
 5. What is the distribution of job titles across the company?
 6. What is the distribution of employees across locations by city?
 7. How many employees work at headquarters versus remote locations?
-8. What is the average length of employment for employees who have been terminated?
+8. What is the average year of employment for employees based on their department?
 */
 
 -- 1
